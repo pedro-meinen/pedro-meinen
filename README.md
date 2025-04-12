@@ -33,10 +33,3 @@
     <img  alt="staks" src="https://skillicons.dev/icons?i=git,md,python,go,rust,fastapi,selenium,regex,django,docker&perline=9" />
   </a>
 </p>
-
-<!--profile visit count-->
-<div align="center">
-
-[![Numero de visitas](https://visitcount.itsvg.in/api?id=pedro-meinen&icon=3&color=6)](https://visitcount.itsvg.in)
-
-</div>
