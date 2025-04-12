@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on **Python, Rust, Go, Power Apps, Power Automate, UiPath**
 
-- 🌱 I’m currently learning **how to build my own OS using Rust**
+- 🌱 I’m currently learning **the Django REST Feamework**
 
-- 🎮 I've keen interest in game developing. So,I'm learning **Godot**
-
-- 💬 Ask me about **Microsoft Power Plataform**
+- 💬 Ask me about **Microsoft Power Plataform** and **Robotic Process Automation**
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -32,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img  alt="staks" src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,md,mongodb,sqlite,deno,nodejs,python,vscode,go,rust,fastapi,powershell,htmx,godot,latex,selenium,regex,flask,windows&perline=8" />
+    <img  alt="staks" src="https://skillicons.dev/icons?i=git,md,python,go,rust,fastapi,selenium,regex,django,docker&perline=9" />
   </a>
 </p>
 
