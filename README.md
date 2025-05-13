@@ -13,8 +13,6 @@
     <tr border="none">
       <td width="50%" align="center">
         <img  alt="stats" align="center"  src="https://github-readme-stats.vercel.app/api?username=pedro-meinen&theme=dark&show_icons=true&count_private=true" />
-        </br></br>
-        <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-meinen&theme=dark&hide_border=false" />
       </td>
       <td width="50%" align="center">
         <img  alt="Languages" align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pedro-meinen&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -30,6 +28,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img  alt="staks" src="https://skillicons.dev/icons?i=git,md,python,go,rust,fastapi,selenium,regex,django,docker&perline=9" />
+    <img  alt="staks" src="https://skillicons.dev/icons?i=git,md,python,go,rust,fastapi,selenium,regex,django,docker,arch,c&perline=6" />
   </a>
 </p>
