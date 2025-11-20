@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img  alt="staks" src="https://skillicons.dev/icons?i=git,md,python,go,rust,fastapi,selenium,regex,django,docker,arch,c&perline=6" />
+    <img  alt="staks" src="https://skillicons.dev/icons?i=git,md,python,go,rust,fastapi,selenium,regex,django,docker,arch,bash&perline=6" />
   </a>
 </p>
